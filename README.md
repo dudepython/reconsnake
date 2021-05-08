@@ -24,10 +24,6 @@ Change to the directory
 ```
 cd reconspider
 ```
-Install requirements
-```
-pip3 install -r requiremnts.txt
-```
 Run reconsnake
 ```
 python3 snake.py
