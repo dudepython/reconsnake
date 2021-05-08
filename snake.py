@@ -24,7 +24,7 @@ def main():
 []""")
     print ("\n\n\nloading  ....")
     choice =int(input(':'))
-def load()
+def load():
     try:
         import phonenumbers
         import re
