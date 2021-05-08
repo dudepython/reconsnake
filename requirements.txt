@@ -1,3 +1,0 @@
-phonenumbers
-whois
-urllib3
