@@ -1,7 +1,5 @@
 phonenumbers
-re
 whois
-json
 urllib
 haveibeenpwnd 
 requests
