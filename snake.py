@@ -24,7 +24,7 @@ def main():
 []""")
     print ("\n\n\nloading  ....")
     choice =int(input(':'))
-
+def load()
     try:
         import phonenumbers
         import re
@@ -110,3 +110,6 @@ def domainlookup():
         print(key,':', value,"\n\n")
 def end():
     PRINT("BYEEE")
+load()
+banner()
+main()
