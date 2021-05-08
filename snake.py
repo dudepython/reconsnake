@@ -85,7 +85,7 @@ def nmap():
     nmres = requests.get('https://api.hackertarget.com/nmap/?q='+nmip)
     print(nmres.text)
 def subnetscan():
-    subip = str(input("ENTER IP RANGE \N example"))
+    subip = str(input("ENTER IP RANGE"))
     subres = requests.get('https://api.hackertarget.com/subnetcalc/?q='+subip)
     print(subres.text)
     
